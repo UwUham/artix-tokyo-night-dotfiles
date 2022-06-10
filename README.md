@@ -18,6 +18,7 @@ apply the :rice: (working directory is the root of this repo (eg ~/artix-tokyo-n
 ```
 $ cp -r ~/.config ~/.config-backup
 $ cp -r * ~
+$ nitrogen .
 # reboot
 ```
 # Wallpaper
