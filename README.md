@@ -21,6 +21,11 @@ $ cp -r * ~
 $ nitrogen .
 # reboot
 ```
+
+# Notes
+You will need to edit .config/polybar-forecast/config.toml to use your API key and city. You can find more information about this [here](https://openweathermap.org).
+Alternatively, you can disable the module by removing it from `[bar/left]`/`modules-center` in .config/polybar/config.ini
+
 # Wallpaper
 <img src=wallpaper.jpg></img>
 
