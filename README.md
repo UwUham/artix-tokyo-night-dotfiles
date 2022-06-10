@@ -6,7 +6,9 @@ idk what to write really
 
 install dependencies:
 Arch/Arch-based (with yay):
+
 `$ yay -S - < ./dependencies`
+
 Note: Ironically Artix's official repo and the AUR combined do not have the packages to satisfy this full list: You will need to either temporarily enable Arch's repo or download the PKGBUILDs for the missing applications.
 
 Other distributions (or Arch without yay):
