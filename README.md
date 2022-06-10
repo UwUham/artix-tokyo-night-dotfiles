@@ -20,3 +20,8 @@ $ cp -r ~/.config ~/.config-backup
 $ cp -r * ~
 # reboot
 ```
+# Wallpaper
+<img src=wallpaper.jpg></img>
+
+# Screenshot
+<img src=screenshot.png></img>
